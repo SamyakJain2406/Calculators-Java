@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "queue",
+            "request": "launch",
+            "mainClass": "queue",
+            "projectName": "javaquestions_3b122c5b"
+        },
+        {
+            "type": "java",
+            "name": "StackPush",
+            "request": "launch",
+            "mainClass": "StackPush",
+            "projectName": "javaquestions_3b122c5b"
+        },
+        {
+            "type": "java",
+            "name": "stackPush",
+            "request": "launch",
+            "mainClass": "stackPush",
+            "projectName": "javaquestions_3b122c5b"
+        },
+        {
+            "type": "java",
+            "name": "findMid",
+            "request": "launch",
+            "mainClass": "findMid",
+            "projectName": "javaquestions_3b122c5b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "javaquestions_3b122c5b"
+        },
+        {
+            "type": "java",
+            "name": "javaCalculator",
+            "request": "launch",
+            "mainClass": "javaCalculator",
+            "projectName": "javaquestions_3b122c5b"
+        }
+    ]
+}
