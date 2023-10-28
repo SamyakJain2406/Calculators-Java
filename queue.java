@@ -15,6 +15,7 @@ public class queue {
 
         
         // Dequeue (remove and return) elements from the queue
+        
         int dequeuedElement = queue.poll();
         System.out.println("Dequeued element: " + dequeuedElement);
 
