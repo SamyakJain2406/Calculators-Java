@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "push",
+            "request": "launch",
+            "mainClass": "push",
+            "projectName": "javaquestions_3b122c5b"
+        },
+        {
+            "type": "java",
             "name": "queue",
             "request": "launch",
             "mainClass": "queue",

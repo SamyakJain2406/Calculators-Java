@@ -7,7 +7,7 @@ public class queue {
 
         // Enqueue (add) elements to the queue
         queue.offer(1);
-        queue.offer(5201314);
+        queue.offer(5);
         queue.offer(2);
         queue.offer(3);
 
