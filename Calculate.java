@@ -7,7 +7,7 @@ import java.awt.Color;
 import javax.swing.*;
 import java.lang.Math;
 
-public class Calculatorr {
+public class Calculator {
 
     private static final int WINDOW_WIDTH = 410;//WINDOW_WIDTH
     private static final int WINDOW_HEIGHT = 600;//WINDOW_HEIGHT
