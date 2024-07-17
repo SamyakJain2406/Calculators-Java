@@ -5,7 +5,7 @@
 
 This is a simple **Java** calculator.
 
-<img width="250" alt="calculator" src="">
+<img width="250" alt="calculator" src="images\Capture.PNG">
 
 ### How to run it?
 
